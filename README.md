@@ -1,6 +1,6 @@
 # A collection of react and flutter implementations of behance designs.
 
-**DISCLAIMER: The designs of all the applications listed here are in no way mine and due accreditation was given in each project.**
+**DISCLAIMER: These implementations are solely for practice and not intended for commercial usage. The designs of all the applications listed here are hereby acknowledged to not be mine with due attribution given in each project.**
 
 ## List of Applications
 - [Yoola Bank Application](#yoola-bank-application)
