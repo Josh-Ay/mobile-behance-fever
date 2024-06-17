@@ -10,11 +10,4 @@
 A banking application that helps you effectively track and manage your personal finance.
 
 - [Link to codebase](https://github.com/Josh-Ay/funola-bank-app)
-
-![](./assets/funola/react-native-demo.gif)
-![](./assets/funola/1.png)
-![](./assets/funola/2.png)
-![](./assets/funola/3.png)
-![](./assets/funola/4.png)
-![](./assets/funola/9.png)
-![](./assets/funola/11.png)
+![](./assets/funola/funola-screenshot.png)
